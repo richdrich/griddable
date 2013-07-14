@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_width"
+			],
+			[
+				"repl",
+				"repl_context"
+			],
+			[
+				"board",
+				"boardtop"
+			],
+			[
+				"style",
+				"stylesheet_link_tag"
+			],
+			[
+				"find",
+				"find_all_by_user_id"
+			],
+			[
+				"sub",
+				"submitted_password"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"encr",
+				"encrypted_password"
+			],
+			[
+				"des",
+				"designFormChanged"
+			],
+			[
+				"index",
+				"indexed_field"
+			],
+			[
+				"order",
+				"order_no"
+			],
+			[
+				"param",
+				"param_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "griddable.rb",
+			"settings":
+			{
+				"buffer_size": 1595,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"git: ",
+				"Git: Commit"
+			],
+			[
+				"g",
+				"Git: Commit"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/richard/Documents/eclipsemac/gridify/griddable.rb",
+		"/Users/richard/Documents/eclipsemac/gridify/griddable_spec.rb",
+		"/Users/richard/Library/Application Support/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/richard/Documents/eclipsemac/gridify",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/assets/javascripts/render_drawings.js",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/controllers/designs_controller.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/designs/_form.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/designs/_sidepane.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/controllers/users_controller.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/controllers/sessions_controller.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/config/routes.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/users/show.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/helpers/dyn_form_builder.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/helpers/sessions_helper.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/assets/stylesheets/application.css",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/users/edit.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/models/user.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/users/_form.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/models/design.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/layouts/application.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/controllers/application_controller.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/helpers/application_helper.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/designs/_form.html.erb_prefb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/shared/error.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/users/new.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/sessions/new.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/Gemfile",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/views/designs/_boardpane.html.erb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/db/migrate/20130609015045_create_users.rb",
+		"/Users/richard/Documents/eclipsemac/boxdraw/app/helpers/designs_helper.rb",
+		"/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/actionpack.rb",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/tests/phpfunc/TestOrderSub.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/controllers/rest_orders.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/tests/phpunit/testsubscribe.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/controllers/test/SubscriptionControllerStub.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/controllers/SubscriptionControllerBase.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_ind_school.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/models/SchoolModel.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_school.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_sub_with_school_adminrequest.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_sub_notify_school.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/password_reset.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_sub_with_district_adminrequest.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_sub_notify_district.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/cs_district_admin_request.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/templates/new_district.twig",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/tests/phpunit/initsubscribe.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-common/lib/LdapObject.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Event/GetResponseForExceptionEvent.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/vendor/composer/ClassLoader.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap.sublime-project",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/vendor/silex/silex/src/Silex/Application.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/lib/PasswordReset.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/app/controllers/user.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/README.md",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/common/lib/BaseLdap.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/common/lib/LdapObject.php",
+		"/Users/richard/Documents/eclipsemac_cwa/ewrap-ism/common/lib/IsmBind.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$school==null",
+			"$district==null"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"empty($school)",
+			"$school==null",
+			"empty($district)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "griddable.rb",
+					"settings":
+					{
+						"buffer_size": 1595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 222.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.801960784314,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
